@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <Copyright>©Thorsten Bylicki</Copyright>
+    <PackageIcon>ChatGPT Image 21. Juli 2025, 23_09_26.png</PackageIcon>
+    <Description>SecureHasher ist eine moderne Windows-Anwendung in C#, die zentrale Sicherheitsfunktionen für Entwickler, Systemadministratoren und Power-User vereint.</Description>
+    <PackageProjectUrl>https://github.com/bylickilabs</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bylickilabs/SecureHasher</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+</Project>
