@@ -1,5 +1,8 @@
 # 🔐 SecureHasher – Passwort- und Datei-Hasher mit ZIP-Analyse
 
+|<img width="1280" height="640" alt="SH" src="https://github.com/user-attachments/assets/c1fa7dd9-c9fa-437e-86f3-5e5a8b301eda" />|
+|---|
+
 ## 🇩🇪 Produktbeschreibung (Deutsch)
 
 **SecureHasher** ist eine leistungsstarke Windows-Anwendung zur Erzeugung sicherer Passwörter sowie zur Überprüfung der Integrität von Dateien, Ordnern und ZIP-Archiven. Entwickelt für Systemadministratoren, Entwickler und sicherheitsbewusste Nutzer, kombiniert das Tool einfache Bedienung mit hoher Funktionalität.
