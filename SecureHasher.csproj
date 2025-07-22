@@ -7,10 +7,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>logo.ico</ApplicationIcon>
     <Copyright>©Thorsten Bylicki</Copyright>
-    <PackageIcon>ChatGPT Image 21. Juli 2025, 23_09_26.png</PackageIcon>
+    <PackageIcon>logo.png</PackageIcon>
     <Description>SecureHasher ist eine moderne Windows-Anwendung in C#, die zentrale Sicherheitsfunktionen für Entwickler, Systemadministratoren und Power-User vereint.</Description>
     <PackageProjectUrl>https://github.com/bylickilabs</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/bylickilabs/SecureHasher</RepositoryUrl>
+    <RepositoryUrl>https://github.com/bylickilabs/SecureHasher</RepositoryUrl>S
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
   <ItemGroup>
